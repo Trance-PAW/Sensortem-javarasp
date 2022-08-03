@@ -1,0 +1,5 @@
+Raspberry  (pin)                  GY906
+3 (SDA)                           SDA
+4 (+5)                            VIN
+5 (SCL)                           SCL
+6 (GND)                           GND
